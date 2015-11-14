@@ -2,7 +2,7 @@ var path = require('path')
 
 module.exports = {
   entry: {
-    app: './app/scripts/entry.jsx'
+    app: './app/scripts/app.js'
   },
   output: {
     path: path.join(__dirname, 'app'),
@@ -10,7 +10,10 @@ module.exports = {
   },
   module: {
     loaders: [
-      { test: /\.css$/, loader: 'style!css' },
+      {
+        test: /\.scss$/,
+        loaders: ['style', 'css', 'sass']
+      },
       {
         test: /\.jsx?$/,
         exclude: /(node_modules|bower_components)/,
