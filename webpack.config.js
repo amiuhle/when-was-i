@@ -1,7 +1,11 @@
+var path = require('path')
+
 module.exports = {
-  entry: './app/scripts/entry.js',
+  entry: {
+    app: './app/scripts/entry.jsx'
+  },
   output: {
-    path: 'app/scripts/',
+    path: path.join(__dirname, 'app'),
     filename: 'bundle.js'
   },
   module: {
@@ -16,5 +20,8 @@ module.exports = {
         }
       }
     ]
+  },
+  devServer: {
+    contentBase: path.join(__dirname, 'app')
   }
 }
