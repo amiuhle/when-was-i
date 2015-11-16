@@ -8,9 +8,9 @@ export default {
         'Im Bezirk Dresden setzt die Deutsche Post der DDR erstmals die Röntgentechnik ein, um aus der Bundesrepublik Deutschland stammende Pakete inhaltlich zu kontrollieren.',
         // 'Winston Churchill tritt aus gesundheitlichen Gründen als Premierminister von Großbritannien zurück.',
         'In Montgomery, Alabama wird die Afroamerikanerin Rosa Parks verhaftet, weil sie sich weigert, ihren Sitzplatz im Bus für einen männlichen weißen Fahrgast zu räumen.',
-        'In den USA wird der Salk-Impfstoff gegen Kinderlähmung erfolgreich getestet',
+        'In den USA wird der Salk-Impfstoff gegen Kinderlähmung erfolgreich getestet.',
         'Beim kalifornischen Anaheim eröffnet Walt Disney den ersten Disneyland-Vergnügungspark.',
-        'Die Pariser Verträge treten in Kraft',
+        'Die Pariser Verträge treten in Kraft.',
         'Die Bundeswehr wird gegründet.',
         // Rowan Atkinson, Kevin Costner, Alain Prost,, Steve Jobs, Bruce Willis, Claudia Roth, Tim Berners-Lee, Heintje, Helge Schneider, Bill Gates, Renate Künast
         'Steve Jobs, Kevin Costner und Heintje werden geboren.',

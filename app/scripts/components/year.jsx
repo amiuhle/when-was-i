@@ -10,8 +10,12 @@ export default class Year extends Component {
   }
 
   render () {
+    let classNames = ['year', 'slide']
+    if (this.props.index === 0) {
+      classNames.push('slide--active')
+    }
     return (
-      <section className='year'>
+      <section className={classNames.join(' ')}>
         <h2 className='year__number'>{this.props.year}</h2>
         <ul className='year__hints'>
           {
@@ -24,6 +28,7 @@ export default class Year extends Component {
 }
 
 Year.propTypes = {
+  index: React.PropTypes.number,
   year: React.PropTypes.number,
   hints: React.PropTypes.array
 }
