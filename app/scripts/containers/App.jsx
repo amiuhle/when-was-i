@@ -34,8 +34,8 @@ class App extends Component {
         break
       }
 
-      default:
-        console.log(keycode(e))
+      // default:
+      //   console.log(keycode(e))
     }
   }
 

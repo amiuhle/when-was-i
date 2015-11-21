@@ -2,7 +2,7 @@ import { NEXT_SLIDE, PREV_SLIDE, NEXT_HINT, PREV_HINT } from '../constants/Actio
 
 const initialState = {
   slide: 0,
-  hint: 0
+  hint: 3
 }
 
 export default function slides (state = initialState, action) {

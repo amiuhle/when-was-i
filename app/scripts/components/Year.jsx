@@ -25,7 +25,7 @@ export default class Year extends Component {
           {
             this.props.hints.map((hint, i) => {
               let classNames = ['hint']
-              if(isActiveSlide) {
+              if (isActiveSlide) {
                 if (i < activeHint) {
                   classNames.push('hint--shown')
                 }
