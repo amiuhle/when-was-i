@@ -21,3 +21,20 @@ body {
 .slide--active {
   display: flex;
 }
+
+.ui-list {
+  list-style-type: none;
+}
+
+.hint {
+  display: none;
+  text-align: center;
+}
+
+.hint--shown, .hint--active {
+  display: list-item;
+}
+
+.hint--active {
+  font-size: 2em;
+}

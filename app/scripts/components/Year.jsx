@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, { Component, PropTypes } from 'react'
 
 export default class Year extends Component {
 
@@ -11,15 +11,34 @@ export default class Year extends Component {
 
   render () {
     let classNames = ['year', 'slide']
-    if (this.props.index === 0) {
+    const { index, slideState } = this.props
+    const activeSlide = slideState.slide
+    const activeHint = slideState.hint
+    const isActiveSlide = index === activeSlide
+    if (isActiveSlide) {
       classNames.push('slide--active')
     }
     return (
       <section className={classNames.join(' ')}>
         <h2 className='year__number'>{this.props.year}</h2>
-        <ul className='year__hints'>
+        <ul className='year__hints ui-list'>
           {
-            this.props.hints.map((hint, i) => <li key={i}>{hint}</li>)
+            this.props.hints.map((hint, i) => {
+              let classNames = ['hint']
+              if(isActiveSlide) {
+                if (i < activeHint) {
+                  classNames.push('hint--shown')
+                }
+                if (i === activeHint) {
+                  classNames.push('hint--active')
+                }
+              }
+              return (
+                <li key={i} className={classNames.join(' ')}>
+                  {hint}
+                </li>
+              )
+            })
           }
         </ul>
       </section>
@@ -28,7 +47,8 @@ export default class Year extends Component {
 }
 
 Year.propTypes = {
-  index: React.PropTypes.number,
-  year: React.PropTypes.number,
-  hints: React.PropTypes.array
+  index: PropTypes.number,
+  year: PropTypes.number,
+  hints: PropTypes.array,
+  slideState: PropTypes.object
 }

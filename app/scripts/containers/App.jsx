@@ -1,26 +1,54 @@
 import React, { Component, PropTypes } from 'react'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
+import keycode from 'keycode'
 import Year from '../components/Year.jsx'
 import * as SlideActions from '../actions/slides'
 
 class App extends Component {
 
-  constructor(props, context) {
-    super(props, context)
+  constructor (props, context) {
+    super(props, context);
+    ['handleKeyUp'].forEach(fn => this[fn] = this[fn].bind(this))
   }
 
-  componentDidMount() {
+  handleKeyUp (e) {
     const { actions } = this.props
-    document.addEventListener('keyup', actions.nextSlide)
+
+    switch (keycode(e)) {
+      case 'down': {
+        actions.nextSlide()
+        break
+      }
+      case 'up': {
+        actions.prevSlide()
+        break
+      }
+
+      case 'right': {
+        actions.nextHint()
+        break
+      }
+      case 'left': {
+        actions.prevHint()
+        break
+      }
+
+      default:
+        console.log(keycode(e))
+    }
   }
 
-  componentWillUnmount() {
+  componentDidMount () {
+    document.addEventListener('keyup', this.handleKeyUp)
+  }
 
+  componentWillUnmount () {
+    document.removeEventListener('keyup', this.handleKeyUp)
   }
 
   render () {
-    const { slides, actions } = this.props
+    const { slideState } = this.props
     return (
       <div className='full-size'>
       {
@@ -28,9 +56,9 @@ class App extends Component {
           <Year
             key={year.year}
             {...year}
+            slideState={slideState}
             index={i}
             />
-
         )
       }
       </div>
@@ -39,16 +67,18 @@ class App extends Component {
 }
 
 App.propTypes = {
-  years: PropTypes.array.isRequired
+  years: PropTypes.array.isRequired,
+  slideState: PropTypes.object.isRequired,
+  actions: React.PropTypes.objectOf(React.PropTypes.func).isRequired
 }
 
-function mapStateToProps(state) {
+function mapStateToProps (state) {
   return {
-    slides: state.slides
+    slideState: state.slides
   }
 }
 
-function mapDispatchToProps(dispatch) {
+function mapDispatchToProps (dispatch) {
   return {
     actions: bindActionCreators(SlideActions, dispatch)
   }
