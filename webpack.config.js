@@ -2,7 +2,7 @@ var path = require('path')
 
 module.exports = {
   entry: {
-    app: './app/scripts/app.js'
+    app: './app/scripts/index.js'
   },
   output: {
     path: path.join(__dirname, 'app'),

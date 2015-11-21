@@ -3,4 +3,38 @@ $background-color: #fff;
 
 body {
   background-color: $background-color;
+  margin: 0;
+}
+
+.full-size {
+  height: 100%;
+  width: 100%;
+}
+
+.slide {
+  display: none;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slide--active {
+  display: flex;
+}
+
+.ui-list {
+  list-style-type: none;
+}
+
+.hint {
+  display: none;
+  text-align: center;
+}
+
+.hint--shown, .hint--active {
+  display: list-item;
+}
+
+.hint--active {
+  font-size: 2em;
 }
