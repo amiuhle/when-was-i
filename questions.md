@@ -1,0 +1,37 @@
+Questions
+=========
+
+1955
+----
+
+* In Nepal findet nach dem Tod des Königs Tribhuvan ein Thronwechsel statt. Sein Sohn Mahendra regiert über das Land.
+* Die 28-jährige Ruth Ellis ist die letzte Frau in Großbritannien, die als Mörderin am Strang hingerichtet wird.
+* Im Bezirk Dresden setzt die Deutsche Post der DDR erstmals die Röntgentechnik ein, um aus der Bundesrepublik Deutschland stammende Pakete inhaltlich zu kontrollieren.
+* Winston Churchill tritt aus gesundheitlichen Gründen als Premierminister von Großbritannien zurück.
+* In Montgomery, Alabama wird die Afroamerikanerin Rosa Parks verhaftet, weil sie sich weigert, ihren Sitzplatz im Bus für einen männlichen weißen Fahrgast zu räumen.
+* Der 5. Dezember ist ein Montag.
+* In den USA wird der Salk-Impfstoff gegen Kinderlähmung erfolgreich getestet.
+* Beim kalifornischen Anaheim eröffnet Walt Disney den ersten Disneyland-Vergnügungspark.
+* Die Pariser Verträge treten in Kraft.
+* Die Bundeswehr wird gegründet.
+* Rowan Atkinson, Kevin Costner, Alain Prost, Steve Jobs, Bruce Willis, Claudia Roth, Tim Berners-Lee, Heintje, Helge Schneider, Bill Gates, Renate Künas
+* Steve Jobs, Kevin Costner und Heintje werden geboren.
+* Alexander Fleming (* 1881) und Albert Einstein (* 1879) segnen das Zeitliche.
+
+
+1957
+----
+
+* Der 5. Dezember ist ein Donnerstag.
+* Die Europäische Währungsgemeinschaft wird gegründet.
+* US-Präsident Dwight D. Eisenhower verkündet vor dem amerikanischen Kongress die nach ihm benannte Eisenhower-Doktrin.
+* Die Sowjetunion startet den kugelförmigen Satelliten Sputnik und löst im Westen den so genannten Sputnikschock aus.
+* Deutschland ist amtierender Fußball-Weltmeister
+
+
+1962
+----
+
+* Der spanische Thronanwärter Juan Carlos und Prinzessin Sophia von Griechenland heiraten in Athen.
+* Nelson Mandela wird in Howick verhaftet und von der südafrikanischen Regierung wegen Aufruf zum Streik verurteilt.
+* [*Kuba Krise*](https://de.wikipedia.org/wiki/Kubakrise)
