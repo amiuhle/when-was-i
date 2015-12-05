@@ -1,5 +1,31 @@
-Questions
-=========
+Wann war ich? 60er Edition
+==========================
+
+## [1990](https://de.wikipedia.org/wiki/1990)
+
+* Der 5. Dezember ist ein Mittwoch.
+* Die Färöer-Inseln siegen bei einem Fußballländerspiel mit einem historischen 1:0 über Österreich.
+* Pamela Anderson ist zum ersten Mal in der Serie Baywatch – Die Rettungsschwimmer von Malibu zu sehen.
+* *Verdammt, ich lieb’ Dich* von Matthias Reim hält sich 16 Wochen auf Platz 1 der deutschen Singlecharts.
+* Die bedingungslose Freilassung Nelson Mandelas markiert den Anfang vom Ende der Apartheid.
+* Irakische Truppen marschieren in Kuwait ein.
+* Die Bürgerbefragung in Karl-Marx-Stadt ergibt: 76 Prozent entscheiden sich für die alte Stadtbezeichnung „Chemnitz“.
+* Wolfgang Schäuble, deutscher Bundesminister des Innern, wird bei einem Schussattentat schwer verletzt.
+* Deutschland wird Fußball-Weltmeister.
+* Die D-Mark wird gesetzliches Zahlungsmittel in der DDR.
+* Die Außenminister der vier Siegermächte des Zweiten Weltkrieges erklären in New York City Deutschland zum souveränen Staat.
+
+## [1962](https://de.wikipedia.org/wiki/1962)
+
+* Brasilien wird Fußball-Weltmeister.
+* Jon Bon Jovi und Tom Cruiese werden geboren.
+* Nelson Mandela wird in Howick verhaftet und von der südafrikanischen Regierung wegen Aufruf zum Streik verurteilt.
+* James Meredith schreibt sich als erster afro-amerikanischer Student in der Universität von Mississippi ein.
+* Der 5. Dezember ist ein Mittwoch.
+* 1\. Januar: Die Beatles machen die ersten Probeaufnahmen bei der Plattenfirma Decca und werden mit der Begründung abgelehnt, dass Gitarrengruppen nicht mehr modern seien.
+* 11\. September: Die Beatles nehmen ihre erste Single *Love Me Do* auf.
+* In Deutschland wird die erste Folge der US-amerikanischen Fernsehserie Bonanza von der ARD ausgestrahlt.
+* Die Sowjetunion löst durch die Stationierung von Mittelstreckenraketen auf Kuba die Kubakrise aus.
 
 ## [1955](https://de.wikipedia.org/wiki/1955)
 
@@ -19,6 +45,7 @@ Questions
 ## [1957](https://de.wikipedia.org/wiki/1957)
 
 * Magirus-Deutz liefert das damals größte Tanklöschfahrzeug der Welt nach Uruguay.
+* Deutschland ist amtierender Fußball-Weltmeister.
 * Die Gesamtdeutsche Volkspartei (GVP) löst sich zugunsten der SPD auf.
 * Die Stadt München erreicht eine Million Einwohner.
 * In der Bundesrepublik Deutschland wird die Geschwindigkeit in Ortschaften auf 50 km/h begrenzt.
@@ -26,21 +53,6 @@ Questions
 * US-Präsident Dwight D. Eisenhower verkündet vor dem amerikanischen Kongress die nach ihm benannte Eisenhower-Doktrin.
 * Der 5. Dezember ist ein Donnerstag.
 * Die Sowjetunion startet den kugelförmigen Satelliten Sputnik und löst im Westen den so genannten Sputnikschock aus.
-* Deutschland ist amtierender Fußball-Weltmeister
-* 
-
-
-## [1962](https://de.wikipedia.org/wiki/1962)
-
-* Brasilien wird Fußball-Weltmeister
-* Jon Bon Jovi und Tom Cruiese werden geboren.
-* Nelson Mandela wird in Howick verhaftet und von der südafrikanischen Regierung wegen Aufruf zum Streik verurteilt.
-* James Meredith schreibt sich als erster afro-amerikanischer Student in der Universität von Mississippi ein.
-* Der 5. Dezember ist ein Mittwoch.
-* 1\. Januar: Die Beatles machen die ersten Probeaufnahmen bei der Plattenfirma Decca und werden mit der Begründung abgelehnt, dass Gitarrengruppen nicht mehr modern seien.
-* 11\. September: Die Beatles nehmen ihre erste Single *Love Me Do* auf.
-* In Deutschland wird die erste Folge der US-amerikanischen Fernsehserie Bonanza von der ARD ausgestrahlt.
-* Die Sowjetunion löst durch die Stationierung von Mittelstreckenraketen auf Kuba die Kubakrise aus.
 
 ## [1977](https://de.wikipedia.org/wiki/1977)
 
@@ -86,20 +98,6 @@ Questions
 * Richard von Weizsäcker wird im Amt als Bundespräsident bestätigt.
 * George H. W. Bush senior tritt das Amt des 41. Präsidenten der Vereinigten Staaten an.
 * „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.“
-
-## [1990](https://de.wikipedia.org/wiki/1990)
-
-* Der 5. Dezember ist ein Mittwoch.
-* Die Färöer-Inseln siegen bei einem Fußballländerspiel mit einem historischen 1:0 über Österreich.
-* Pamela Anderson ist zum ersten Mal in der Serie Baywatch – Die Rettungsschwimmer von Malibu zu sehen.
-* *Verdammt, ich lieb’ Dich* von Matthias Reim hält sich 16 Wochen auf Platz 1 der deutschen Singlecharts.
-* Die bedingungslose Freilassung Nelson Mandelas markiert den Anfang vom Ende der Apartheid.
-* Irakische Truppen marschieren in Kuwait ein.
-* Die Bürgerbefragung in Karl-Marx-Stadt ergibt: 76 Prozent entscheiden sich für die alte Stadtbezeichnung „Chemnitz“.#
-* Wolfgang Schäuble, deutscher Bundesminister des Innern, wird bei einem Schussattentat schwer verletzt.
-* Deutschland wird Fußball-Weltmeister.
-* Die D-Mark wird gesetzliches Zahlungsmittel in der DDR.
-* Die Außenminister der vier Siegermächte des Zweiten Weltkrieges erklären in New York City Deutschland zum souveränen Staat.
 
 ## [1997](https://de.wikipedia.org/wiki/1997)
 
