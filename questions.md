@@ -4,7 +4,6 @@ Questions
 1955
 ----
 
-* In Nepal findet nach dem Tod des Königs Tribhuvan ein Thronwechsel statt. Sein Sohn Mahendra regiert über das Land.
 * Die 28-jährige Ruth Ellis ist die letzte Frau in Großbritannien, die als Mörderin am Strang hingerichtet wird.
 * Im Bezirk Dresden setzt die Deutsche Post der DDR erstmals die Röntgentechnik ein, um aus der Bundesrepublik Deutschland stammende Pakete inhaltlich zu kontrollieren.
 * Winston Churchill tritt aus gesundheitlichen Gründen als Premierminister von Großbritannien zurück.
@@ -14,19 +13,23 @@ Questions
 * Beim kalifornischen Anaheim eröffnet Walt Disney den ersten Disneyland-Vergnügungspark.
 * Die Pariser Verträge treten in Kraft.
 * Die Bundeswehr wird gegründet.
-* Rowan Atkinson, Kevin Costner, Alain Prost, Steve Jobs, Bruce Willis, Claudia Roth, Tim Berners-Lee, Heintje, Helge Schneider, Bill Gates, Renate Künas
 * Steve Jobs, Kevin Costner und Heintje werden geboren.
 * Alexander Fleming (* 1881) und Albert Einstein (* 1879) segnen das Zeitliche.
 
 
-1957
+[1957](https://de.wikipedia.org/wiki/1957)
 ----
 
-* Der 5. Dezember ist ein Donnerstag.
+* Magirus-Deutz liefert das damals größte Tanklöschfahrzeug der Welt nach Uruguay.
+* Die Gesamtdeutsche Volkspartei (GVP) löst sich zugunsten der SPD auf.
+* Die Stadt München erreicht eine Million Einwohner.
+* In der Bundesrepublik Deutschland wird die Geschwindigkeit in Ortschaften auf 50 km/h begrenzt.
 * Die Europäische Währungsgemeinschaft wird gegründet.
 * US-Präsident Dwight D. Eisenhower verkündet vor dem amerikanischen Kongress die nach ihm benannte Eisenhower-Doktrin.
+* Der 5. Dezember ist ein Donnerstag.
 * Die Sowjetunion startet den kugelförmigen Satelliten Sputnik und löst im Westen den so genannten Sputnikschock aus.
 * Deutschland ist amtierender Fußball-Weltmeister
+* 
 
 
 1962
@@ -84,13 +87,49 @@ Questions
 ----
 
 * Der 5. Dezember ist ein Mittwoch.
-* Die Buche ist Baum des Jahres. (lat. *Fagus sylvatica*)
+* Die Färöer-Inseln siegen bei einem Fußballländerspiel mit einem historischen 1:0 über Österreich.
 * Pamela Anderson ist zum ersten Mal in der Serie Baywatch – Die Rettungsschwimmer von Malibu zu sehen.
 * *Verdammt, ich lieb’ Dich* von Matthias Reim hält sich 16 Wochen auf Platz 1 der deutschen Singlecharts.
 * Die bedingungslose Freilassung Nelson Mandelas markiert den Anfang vom Ende der Apartheid.
 * Irakische Truppen marschieren in Kuwait ein.
 * Die Bürgerbefragung in Karl-Marx-Stadt ergibt: 76 Prozent entscheiden sich für die alte Stadtbezeichnung „Chemnitz“.#
 * Wolfgang Schäuble, deutscher Bundesminister des Innern, wird bei einem Schussattentat schwer verletzt.
+* Deutschland wird Fußball-Weltmeister.
 * Die D-Mark wird gesetzliches Zahlungsmittel in der DDR.
 * Die Außenminister der vier Siegermächte des Zweiten Weltkrieges erklären in New York City Deutschland zum souveränen Staat.
 
+1997
+----
+
+* Der 5. Dezember ist ein Freitag.
+* *Harry Potter und der Stein der Weisen* wird veröffentlicht.
+* James Cameron's *Titanic* kommt in die Kinos.
+* Tony Blair wird als britischer Premierminister vereidigt.
+* Der Neue Markt wird an der deutschen Börse gestartet.
+* Das im vergangenen Sommer geborene geklonte Schaf Dolly wird der Öffentlichkeit vorgestellt.
+* Tiger Woods gewinnt im April sein erstes Major Turnier, die US Masters.
+* Jan Ullrich gewinnt als erster Deutscher die Tour de France.
+* Prinzessin Diana und Dodi Al-Fayed verunglücken in einem Pariser Autotunnel tödlich.
+
+2001
+----
+
+* Die Online-Enzyklopädie Wikipedia wird gegründet.
+* Der iPod kommt auf den Markt.
+* Nach 15 Jahren in der Umlaufbahn wird die Raumstation Mir gezielt zum Absturz gebracht und verglüht über dem Pazifik
+* Der Milliardär Michael Bloomberg wird zum Bürgermeister von New York City gewählt.
+* *Der Herr der Ringe: Die Gefährten* und *Shrek – Der tollkühne Held* kommen in die Kinos.
+* George W. Bush wird 43. Präsident der Vereinigten Staaten von Amerika.
+* Terroranschläge auf das World Trade Center und das Pentagon in den USA fordern rund 3000 Todesopfer.
+
+2004
+----
+
+* Das Übereinkommen zum Schutz der Albatrosse und Sturmvögel (ACAP) tritt in Kraft.
+* Durch die EU-Osterweiterung wird die Europäische Union am 1. Mai um zehn Mitgliedsstaaten vergrößert.
+* Bundeskanzler Gerhard Schröder erklärt seinen Rücktritt vom Parteivorsitz der SPD.
+* Michael Schumacher wird zum 7. Mal  Formel-1-Weltmeister.
+* Mark Zuckerberg startet das Unternehmen Facebook als Student an der Harvard University als Plattform für Kontakte der Kommilitonen untereinander.
+* Amtsantritt des neuen deutschen Bundespräsidenten Horst Köhler.
+* Durch einen Tsunami im Indischen Ozean sterben über 200.000 Menschen.
+* 60\. Jahrestag der Landung der Alliierten in der Normandie.
