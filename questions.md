@@ -73,6 +73,24 @@ Questions
 
 * Das Breitblättrige Knabenkraut ist Orchidee des Jahres. (lat. *Dactylorhiza majalis*)
 * Der 5. Dezember ist ein Dienstag.
+* Der Privatsender ProSieben beginnt den Sendebetrieb.
+* Der Öltanker Exxon Valdez fährt vor Alaska auf ein Riff auf.
+* In Ägypten wird eine 4400 Jahre alte Mumie in der Cheops-Pyramide gefunden.
 * Richard von Weizsäcker wird im Amt als Bundespräsident bestätigt.
 * George H. W. Bush senior tritt das Amt des 41. Präsidenten der Vereinigten Staaten an.
 * „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.“
+
+1990
+----
+
+* Der 5. Dezember ist ein Mittwoch.
+* Die Buche ist Baum des Jahres. (lat. *Fagus sylvatica*)
+* Pamela Anderson ist zum ersten Mal in der Serie Baywatch – Die Rettungsschwimmer von Malibu zu sehen.
+* *Verdammt, ich lieb’ Dich* von Matthias Reim hält sich 16 Wochen auf Platz 1 der deutschen Singlecharts.
+* Die bedingungslose Freilassung Nelson Mandelas markiert den Anfang vom Ende der Apartheid.
+* Irakische Truppen marschieren in Kuwait ein.
+* Die Bürgerbefragung in Karl-Marx-Stadt ergibt: 76 Prozent entscheiden sich für die alte Stadtbezeichnung „Chemnitz“.#
+* Wolfgang Schäuble, deutscher Bundesminister des Innern, wird bei einem Schussattentat schwer verletzt.
+* Die D-Mark wird gesetzliches Zahlungsmittel in der DDR.
+* Die Außenminister der vier Siegermächte des Zweiten Weltkrieges erklären in New York City Deutschland zum souveränen Staat.
+
