@@ -32,6 +32,47 @@ Questions
 1962
 ----
 
-* Der spanische Thronanwärter Juan Carlos und Prinzessin Sophia von Griechenland heiraten in Athen.
+* Brasilien wird Fußball-Weltmeister
+* Jon Bon Jovi und Tom Cruiese werden geboren.
 * Nelson Mandela wird in Howick verhaftet und von der südafrikanischen Regierung wegen Aufruf zum Streik verurteilt.
-* [*Kuba Krise*](https://de.wikipedia.org/wiki/Kubakrise)
+* James Meredith schreibt sich als erster afro-amerikanischer Student in der Universität von Mississippi ein.
+* Der 5. Dezember ist ein Mittwoch.
+* 1\. Januar: Die Beatles machen die ersten Probeaufnahmen bei der Plattenfirma Decca und werden mit der Begründung abgelehnt, dass Gitarrengruppen nicht mehr modern seien.
+* 11\. September: Die Beatles nehmen ihre erste Single *Love Me Do* auf.
+* In Deutschland wird die erste Folge der US-amerikanischen Fernsehserie Bonanza von der ARD ausgestrahlt.
+* Die Sowjetunion löst durch die Stationierung von Mittelstreckenraketen auf Kuba die Kubakrise aus.
+
+1982
+----
+
+* Der Große Brachvogel ist Vogel des Jahres. (lat. *Numenius arquata)*
+* Der 5. Dezember ist ein Sonntag.
+* In Kalifornien wird Sun Microsystems gegründet.
+* Die schwedische Band *ABBA* trennt sich.
+* Prinz William wird geboren.
+* Der erste Commodore 64 kommt auf den Markt.
+* *Nicole* gewinnt in Harrogate mit dem Lied *Ein bißchen Frieden* für Deutschland die 27. Auflage des Eurovision Song Contest.
+* Das Race Across America findet erstmals statt.
+* Italien wird zum dritten Mal Fußball-Weltmeister.
+* Helmut Kohl wird nach einem konstruktiven Misstrauensvotum gegen Bundeskanzler Helmut Schmidt zum neuen Regierungschef gewählt.
+
+1983
+----
+
+* Der 5. Dezember ist ein Montag.
+* In der Innenstadt von Buxtehude wird als Modellversuch die erste Tempo-30-Zone in Deutschland eingerichtet.
+* Die deutsche Bundesregierung beschließt, dass alle Neuwagen mit einem Katalysator ausgerüstet sein müssen.
+* Microsoft kündigt Windows 1.0 an.#
+* AIDS tritt durch einen Spiegel-Artikel in das Bewusstsein der breiten Öffentlichkeit in Deutschland.
+* Das deutsche Magazin stern gibt exklusiv den Fund der Hitler-Tagebücher bekannt.
+* Einführung der Uhrenmarke Swatch.
+* Amy Winehouse, Phillip Lahm und ein cooler Typ werden geboren.
+
+1989
+----
+
+* Das Breitblättrige Knabenkraut ist Orchidee des Jahres. (lat. *Dactylorhiza majalis*)
+* Der 5. Dezember ist ein Dienstag.
+* Richard von Weizsäcker wird im Amt als Bundespräsident bestätigt.
+* George H. W. Bush senior tritt das Amt des 41. Präsidenten der Vereinigten Staaten an.
+* „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.“
