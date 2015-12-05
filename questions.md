@@ -1,8 +1,7 @@
 Questions
 =========
 
-1955
-----
+## [1955](https://de.wikipedia.org/wiki/1955)
 
 * Die 28-jährige Ruth Ellis ist die letzte Frau in Großbritannien, die als Mörderin am Strang hingerichtet wird.
 * Im Bezirk Dresden setzt die Deutsche Post der DDR erstmals die Röntgentechnik ein, um aus der Bundesrepublik Deutschland stammende Pakete inhaltlich zu kontrollieren.
@@ -17,8 +16,7 @@ Questions
 * Alexander Fleming (* 1881) und Albert Einstein (* 1879) segnen das Zeitliche.
 
 
-[1957](https://de.wikipedia.org/wiki/1957)
-----
+## [1957](https://de.wikipedia.org/wiki/1957)
 
 * Magirus-Deutz liefert das damals größte Tanklöschfahrzeug der Welt nach Uruguay.
 * Die Gesamtdeutsche Volkspartei (GVP) löst sich zugunsten der SPD auf.
@@ -32,8 +30,7 @@ Questions
 * 
 
 
-1962
-----
+## [1962](https://de.wikipedia.org/wiki/1962)
 
 * Brasilien wird Fußball-Weltmeister
 * Jon Bon Jovi und Tom Cruiese werden geboren.
@@ -45,8 +42,17 @@ Questions
 * In Deutschland wird die erste Folge der US-amerikanischen Fernsehserie Bonanza von der ARD ausgestrahlt.
 * Die Sowjetunion löst durch die Stationierung von Mittelstreckenraketen auf Kuba die Kubakrise aus.
 
-1982
-----
+## [1977](https://de.wikipedia.org/wiki/1977)
+
+* Doppelbesteuerungsabkommen zwischen der Bundesrepublik Deutschland und Malaysia.
+* Rocky mit Sylvester Stallone in der Hauptrolle erhält in Los Angeles den Oscar.
+* Die Flugzeugkatastrophe von Teneriffa ist mit 583 Todesopfern das größte Flugzeugunglück in der Geschichte der zivilen Luftfahrt.
+* Muhammad Ali gewinnt seinen Boxkampf und Weltmeistertitel im Schwergewicht gegen Alfredo Evangelista durch Sieg nach Punkten.
+* Jimmy Carter wird am 20. Januar als 39. Präsident der USA vereidigt.
+* Der *Deutsche Herbst* erreicht mit der Entführung und späteren Ermordung von Hanns Martin Schleyer seinen Höhepunkt.
+* Elvis Presley wird im Alter von 42 Jahren tot in seinem Badezimmer aufgefunden.
+
+## [1982](https://de.wikipedia.org/wiki/1982)
 
 * Der Große Brachvogel ist Vogel des Jahres. (lat. *Numenius arquata)*
 * Der 5. Dezember ist ein Sonntag.
@@ -59,8 +65,7 @@ Questions
 * Italien wird zum dritten Mal Fußball-Weltmeister.
 * Helmut Kohl wird nach einem konstruktiven Misstrauensvotum gegen Bundeskanzler Helmut Schmidt zum neuen Regierungschef gewählt.
 
-1983
-----
+## [1983](https://de.wikipedia.org/wiki/1983)
 
 * Der 5. Dezember ist ein Montag.
 * In der Innenstadt von Buxtehude wird als Modellversuch die erste Tempo-30-Zone in Deutschland eingerichtet.
@@ -71,8 +76,7 @@ Questions
 * Einführung der Uhrenmarke Swatch.
 * Amy Winehouse, Phillip Lahm und ein cooler Typ werden geboren.
 
-1989
-----
+## [1989](https://de.wikipedia.org/wiki/1989)
 
 * Das Breitblättrige Knabenkraut ist Orchidee des Jahres. (lat. *Dactylorhiza majalis*)
 * Der 5. Dezember ist ein Dienstag.
@@ -83,8 +87,7 @@ Questions
 * George H. W. Bush senior tritt das Amt des 41. Präsidenten der Vereinigten Staaten an.
 * „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.“
 
-1990
-----
+## [1990](https://de.wikipedia.org/wiki/1990)
 
 * Der 5. Dezember ist ein Mittwoch.
 * Die Färöer-Inseln siegen bei einem Fußballländerspiel mit einem historischen 1:0 über Österreich.
@@ -98,8 +101,7 @@ Questions
 * Die D-Mark wird gesetzliches Zahlungsmittel in der DDR.
 * Die Außenminister der vier Siegermächte des Zweiten Weltkrieges erklären in New York City Deutschland zum souveränen Staat.
 
-1997
-----
+## [1997](https://de.wikipedia.org/wiki/1997)
 
 * Der 5. Dezember ist ein Freitag.
 * *Harry Potter und der Stein der Weisen* wird veröffentlicht.
@@ -111,8 +113,7 @@ Questions
 * Jan Ullrich gewinnt als erster Deutscher die Tour de France.
 * Prinzessin Diana und Dodi Al-Fayed verunglücken in einem Pariser Autotunnel tödlich.
 
-2001
-----
+## [2001](https://de.wikipedia.org/wiki/2001)
 
 * Die Online-Enzyklopädie Wikipedia wird gegründet.
 * Der iPod kommt auf den Markt.
@@ -122,10 +123,9 @@ Questions
 * George W. Bush wird 43. Präsident der Vereinigten Staaten von Amerika.
 * Terroranschläge auf das World Trade Center und das Pentagon in den USA fordern rund 3000 Todesopfer.
 
-2004
-----
+## [2004](https://de.wikipedia.org/wiki/2004)
 
-* Das Übereinkommen zum Schutz der Albatrosse und Sturmvögel (ACAP) tritt in Kraft.
+* Das internationale Übereinkommen zum Schutz der Albatrosse und Sturmvögel (ACAP) tritt in Kraft.
 * Durch die EU-Osterweiterung wird die Europäische Union am 1. Mai um zehn Mitgliedsstaaten vergrößert.
 * Bundeskanzler Gerhard Schröder erklärt seinen Rücktritt vom Parteivorsitz der SPD.
 * Michael Schumacher wird zum 7. Mal  Formel-1-Weltmeister.
@@ -133,3 +133,13 @@ Questions
 * Amtsantritt des neuen deutschen Bundespräsidenten Horst Köhler.
 * Durch einen Tsunami im Indischen Ozean sterben über 200.000 Menschen.
 * 60\. Jahrestag der Landung der Alliierten in der Normandie.
+
+## [2009](https://de.wikipedia.org/wiki/2009)
+
+* In Norwegen wird die gleichgeschlechtliche Ehe ermöglicht.
+* Das Historische Archiv der Stadt Köln stürzt wegen eines U-Bahn-Baus ein.
+* Die Schweinegrippe wird zur Pandemie erklärt.
+* Der US-Autohersteller General Motors meldet 101 Jahre nach der Firmengründung Insolvenz an.
+* Die Slowakei führt als 16. EU-Land den Euro ein.
+* Barack Obama wird 44. Präsident der Vereinigten Staaten.
+* Michael Jackson stirbt im Alter von 50 Jahren.
