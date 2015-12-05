@@ -27,6 +27,18 @@ Wann war ich? 60er Edition
 * In Deutschland wird die erste Folge der US-amerikanischen Fernsehserie Bonanza von der ARD ausgestrahlt.
 * Die Sowjetunion löst durch die Stationierung von Mittelstreckenraketen auf Kuba die Kubakrise aus.
 
+## [1997](https://de.wikipedia.org/wiki/1997)
+
+* Der 5. Dezember ist ein Freitag.
+* *Harry Potter und der Stein der Weisen* wird veröffentlicht.
+* James Cameron's *Titanic* kommt in die Kinos.
+* Tony Blair wird als britischer Premierminister vereidigt.
+* Der Neue Markt wird an der deutschen Börse gestartet.
+* Das im vergangenen Sommer geborene geklonte Schaf Dolly wird der Öffentlichkeit vorgestellt.
+* Tiger Woods gewinnt im April sein erstes Major Turnier, die US Masters.
+* Jan Ullrich gewinnt als erster Deutscher die Tour de France.
+* Prinzessin Diana und Dodi Al-Fayed verunglücken in einem Pariser Autotunnel tödlich.
+
 ## [1955](https://de.wikipedia.org/wiki/1955)
 
 * Die 28-jährige Ruth Ellis ist die letzte Frau in Großbritannien, die als Mörderin am Strang hingerichtet wird.
@@ -41,6 +53,44 @@ Wann war ich? 60er Edition
 * Steve Jobs, Kevin Costner und Heintje werden geboren.
 * Alexander Fleming (* 1881) und Albert Einstein (* 1879) segnen das Zeitliche.
 
+## [2011](https://de.wikipedia.org/wiki/2011)
+
+* Es ereignen sich vier partielle Sonnenfinsternisse, erstmals am 4. Januar über Europa, Nordafrika und Westasien. Die Sonnenfinsternis am 1. Juni war von Ostsibirien, Nordalaska, Nordkanada und Grönland aus sichtbar.
+* Der Deutsche Zukunftspreis wird an den Dresdner Fraunhofer-Forscher Karl Leo für die Entwicklung Organischer Leuchtdioden vergeben.
+* Ein Erdbeben der Stärke 5,4 verursacht im Iran einige Schäden. Es gab 16 Verletzte.
+* Das spanische Bauunternehmen Grupo ACS übernimmt das deutsche Bautunernehmen Hochtief
+* Verstorbene Persönlichkeiten
+  * Knut, deutscher Eisbär
+  * Johannes Heesters
+  * Joe Frasier
+  * Osama bin Laden, Terrorist
+  * Steve Jobs
+  * Amy Winehouse, britische Sängerin
+* Nachdem der Bundestag das Wehrpflichtgesetz abgeändert hatte, wurde die Wehrpflicht in Deutschland im März ausgesetzt.
+* Anders Behring Breivik läuft in Oslo und auf der Insel Utøya amok. Er tötet 77 Menschen.
+* Das Tōhoku-Erdbeben nahe der Ostküste von Honshū (Japan) erreicht eine Magnitude von 9,0. Es löst einen schweren Tsunami aus, der über die Nordostküste Japans hinwegfegt. Insgesamt gibt es über 15.000 Tote, über 8.000 werden noch vermisst.
+
+## [1969](https://de.wikipedia.org/wiki/1969)
+
+* Auf der Seymour-Insel wird mit der Marambio-Station die größte argentinische Forschungsstation in der Antarktis gegründet.
+* Zwei Bewaffnete dringen in ein Munitionsdepot der Bundeswehr im saarländischen Lebach ein und verüben den Aufsehen erregenden Soldatenmord von Lebach. Die Täter werden später nach einem Fahndungsaufruf in der ZDF-SendungAktenzeichen XY … ungelöst festgenommen.
+* Dem Forscher Jonathan Beckwith und seinem Team gelingt an der Harvard University das Isolieren eines einzelnen Gens der Bakterienart Escherichia coli. Er setzt damit einem Meilenstein in der Genetik.
+* In der University of California in Los Angeles wurde die erste Nachricht über zwei weit entfernte Rechner verschickt, und somit das Internet geboren.
+* Am Universitätsklinikum Bonn nimmt Alfred Gütgemann die erste Lebertransplantation in Deutschland an einem Patienten vor.
+* Erstflug eines Prototyps des Überschall-Verkehrsflugzeuges Concorde.
+* 250.000 Menschen protestieren in Washington, D.C. gegen den Vietnamkrieg.
+* Willy Brandt wird nach dem Sieg seiner SPD bei den Bundestagswahlen am 28. September vom Bundestag zum Bundeskanzler der Bundesrepublik Deutschland gewählt.
+* Neil Armstrong betritt um 3 Uhr 56 MEZ als erster Mensch den Mond.
+
+## [2009](https://de.wikipedia.org/wiki/2009)
+
+* In Norwegen wird die gleichgeschlechtliche Ehe ermöglicht.
+* Das Historische Archiv der Stadt Köln stürzt wegen eines U-Bahn-Baus ein.
+* Die Schweinegrippe wird zur Pandemie erklärt.
+* Der US-Autohersteller General Motors meldet 101 Jahre nach der Firmengründung Insolvenz an.
+* Die Slowakei führt als 16. EU-Land den Euro ein.
+* Barack Obama wird 44. Präsident der Vereinigten Staaten.
+* Michael Jackson stirbt im Alter von 50 Jahren.
 
 ## [1957](https://de.wikipedia.org/wiki/1957)
 
@@ -88,6 +138,16 @@ Wann war ich? 60er Edition
 * Einführung der Uhrenmarke Swatch.
 * Amy Winehouse, Phillip Lahm und ein cooler Typ werden geboren.
 
+## [2001](https://de.wikipedia.org/wiki/2001)
+
+* Die Online-Enzyklopädie Wikipedia wird gegründet.
+* Der iPod kommt auf den Markt.
+* Nach 15 Jahren in der Umlaufbahn wird die Raumstation Mir gezielt zum Absturz gebracht und verglüht über dem Pazifik
+* Der Milliardär Michael Bloomberg wird zum Bürgermeister von New York City gewählt.
+* *Der Herr der Ringe: Die Gefährten* und *Shrek – Der tollkühne Held* kommen in die Kinos.
+* George W. Bush wird 43. Präsident der Vereinigten Staaten von Amerika.
+* Terroranschläge auf das World Trade Center und das Pentagon in den USA fordern rund 3000 Todesopfer.
+
 ## [1989](https://de.wikipedia.org/wiki/1989)
 
 * Das Breitblättrige Knabenkraut ist Orchidee des Jahres. (lat. *Dactylorhiza majalis*)
@@ -99,28 +159,6 @@ Wann war ich? 60er Edition
 * George H. W. Bush senior tritt das Amt des 41. Präsidenten der Vereinigten Staaten an.
 * „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.“
 
-## [1997](https://de.wikipedia.org/wiki/1997)
-
-* Der 5. Dezember ist ein Freitag.
-* *Harry Potter und der Stein der Weisen* wird veröffentlicht.
-* James Cameron's *Titanic* kommt in die Kinos.
-* Tony Blair wird als britischer Premierminister vereidigt.
-* Der Neue Markt wird an der deutschen Börse gestartet.
-* Das im vergangenen Sommer geborene geklonte Schaf Dolly wird der Öffentlichkeit vorgestellt.
-* Tiger Woods gewinnt im April sein erstes Major Turnier, die US Masters.
-* Jan Ullrich gewinnt als erster Deutscher die Tour de France.
-* Prinzessin Diana und Dodi Al-Fayed verunglücken in einem Pariser Autotunnel tödlich.
-
-## [2001](https://de.wikipedia.org/wiki/2001)
-
-* Die Online-Enzyklopädie Wikipedia wird gegründet.
-* Der iPod kommt auf den Markt.
-* Nach 15 Jahren in der Umlaufbahn wird die Raumstation Mir gezielt zum Absturz gebracht und verglüht über dem Pazifik
-* Der Milliardär Michael Bloomberg wird zum Bürgermeister von New York City gewählt.
-* *Der Herr der Ringe: Die Gefährten* und *Shrek – Der tollkühne Held* kommen in die Kinos.
-* George W. Bush wird 43. Präsident der Vereinigten Staaten von Amerika.
-* Terroranschläge auf das World Trade Center und das Pentagon in den USA fordern rund 3000 Todesopfer.
-
 ## [2004](https://de.wikipedia.org/wiki/2004)
 
 * Das internationale Übereinkommen zum Schutz der Albatrosse und Sturmvögel (ACAP) tritt in Kraft.
@@ -131,13 +169,3 @@ Wann war ich? 60er Edition
 * Amtsantritt des neuen deutschen Bundespräsidenten Horst Köhler.
 * Durch einen Tsunami im Indischen Ozean sterben über 200.000 Menschen.
 * 60\. Jahrestag der Landung der Alliierten in der Normandie.
-
-## [2009](https://de.wikipedia.org/wiki/2009)
-
-* In Norwegen wird die gleichgeschlechtliche Ehe ermöglicht.
-* Das Historische Archiv der Stadt Köln stürzt wegen eines U-Bahn-Baus ein.
-* Die Schweinegrippe wird zur Pandemie erklärt.
-* Der US-Autohersteller General Motors meldet 101 Jahre nach der Firmengründung Insolvenz an.
-* Die Slowakei führt als 16. EU-Land den Euro ein.
-* Barack Obama wird 44. Präsident der Vereinigten Staaten.
-* Michael Jackson stirbt im Alter von 50 Jahren.
