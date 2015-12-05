@@ -3,13 +3,13 @@ Wann war ich? 60er Edition
 
 ## [1990](https://de.wikipedia.org/wiki/1990)
 
-* Der 5. Dezember ist ein Mittwoch.
 * Die Färöer-Inseln siegen bei einem Fußballländerspiel mit einem historischen 1:0 über Österreich.
-* Pamela Anderson ist zum ersten Mal in der Serie Baywatch – Die Rettungsschwimmer von Malibu zu sehen.
+* Der 5. Dezember ist ein Mittwoch.
+* Pamela Anderson ist zum ersten Mal in der Serie Baywatch zu sehen.
 * *Verdammt, ich lieb’ Dich* von Matthias Reim hält sich 16 Wochen auf Platz 1 der deutschen Singlecharts.
 * Die bedingungslose Freilassung Nelson Mandelas markiert den Anfang vom Ende der Apartheid.
 * Irakische Truppen marschieren in Kuwait ein.
-* Die Bürgerbefragung in Karl-Marx-Stadt ergibt: 76 Prozent entscheiden sich für die alte Stadtbezeichnung „Chemnitz“.
+* Bei einer Bürgerbefragung in Karl-Marx-Stadt entscheiden sich 76% für die alte Stadtbezeichnung „Chemnitz“.
 * Wolfgang Schäuble, deutscher Bundesminister des Innern, wird bei einem Schussattentat schwer verletzt.
 * Deutschland wird Fußball-Weltmeister.
 * Die D-Mark wird gesetzliches Zahlungsmittel in der DDR.
@@ -55,32 +55,26 @@ Wann war ich? 60er Edition
 
 ## [2011](https://de.wikipedia.org/wiki/2011)
 
-* Es ereignen sich vier partielle Sonnenfinsternisse, erstmals am 4. Januar über Europa, Nordafrika und Westasien. Die Sonnenfinsternis am 1. Juni war von Ostsibirien, Nordalaska, Nordkanada und Grönland aus sichtbar.
-* Der Deutsche Zukunftspreis wird an den Dresdner Fraunhofer-Forscher Karl Leo für die Entwicklung Organischer Leuchtdioden vergeben.
-* Ein Erdbeben der Stärke 5,4 verursacht im Iran einige Schäden. Es gab 16 Verletzte.
-* Das spanische Bauunternehmen Grupo ACS übernimmt das deutsche Bautunernehmen Hochtief
-* Verstorbene Persönlichkeiten
-  * Knut, deutscher Eisbär
-  * Johannes Heesters
-  * Joe Frasier
-  * Osama bin Laden, Terrorist
-  * Steve Jobs
-  * Amy Winehouse, britische Sängerin
-* Nachdem der Bundestag das Wehrpflichtgesetz abgeändert hatte, wurde die Wehrpflicht in Deutschland im März ausgesetzt.
-* Anders Behring Breivik läuft in Oslo und auf der Insel Utøya amok. Er tötet 77 Menschen.
-* Das Tōhoku-Erdbeben nahe der Ostküste von Honshū (Japan) erreicht eine Magnitude von 9,0. Es löst einen schweren Tsunami aus, der über die Nordostküste Japans hinwegfegt. Insgesamt gibt es über 15.000 Tote, über 8.000 werden noch vermisst.
+* Bei einem Erdbeben der Stärke 5,4 werden im Iran 16 Menschen verletzt.
+* Das spanische Bauunternehmen Grupo ACS übernimmt das deutsche Bautunernehmen Hochtief.
+* Der Eisbär Knut und Johannes Heesters sterben.
+* Die Wehrpflicht in Deutschland wird ausgesetzt.
+* Anders Behring Breivik tötet in Oslo und auf der Insel Utøya 77 Menschen.
+* Amy Winehouse stirbt im Alter von 27 Jahren.
+* In Folge eines Erdbebens und des dadurch verursachten Tsunamis kommt es im japanischen Kernkraftwerk Fukushima I zu einer folgenschweren Unfallserie.
 
 ## [1969](https://de.wikipedia.org/wiki/1969)
 
 * Auf der Seymour-Insel wird mit der Marambio-Station die größte argentinische Forschungsstation in der Antarktis gegründet.
 * Zwei Bewaffnete dringen in ein Munitionsdepot der Bundeswehr im saarländischen Lebach ein und verüben den Aufsehen erregenden Soldatenmord von Lebach. Die Täter werden später nach einem Fahndungsaufruf in der ZDF-SendungAktenzeichen XY … ungelöst festgenommen.
 * Dem Forscher Jonathan Beckwith und seinem Team gelingt an der Harvard University das Isolieren eines einzelnen Gens der Bakterienart Escherichia coli. Er setzt damit einem Meilenstein in der Genetik.
-* In der University of California in Los Angeles wurde die erste Nachricht über zwei weit entfernte Rechner verschickt, und somit das Internet geboren.
+* An der University of California wird die erste Nachricht über zwei weit entfernte Rechner verschickt, und somit das Internet geboren.
 * Am Universitätsklinikum Bonn nimmt Alfred Gütgemann die erste Lebertransplantation in Deutschland an einem Patienten vor.
 * Erstflug eines Prototyps des Überschall-Verkehrsflugzeuges Concorde.
 * 250.000 Menschen protestieren in Washington, D.C. gegen den Vietnamkrieg.
-* Willy Brandt wird nach dem Sieg seiner SPD bei den Bundestagswahlen am 28. September vom Bundestag zum Bundeskanzler der Bundesrepublik Deutschland gewählt.
-* Neil Armstrong betritt um 3 Uhr 56 MEZ als erster Mensch den Mond.
+* Willy Brandt wird zum Bundeskanzler der Bundesrepublik Deutschland gewählt.
+* Neil Armstrong betritt um 3:56 Uhr MEZ als erster Mensch den Mond.
+  "That's one small step for [a] man, one giant leap for mankind."
 
 ## [2009](https://de.wikipedia.org/wiki/2009)
 
@@ -104,6 +98,17 @@ Wann war ich? 60er Edition
 * Der 5. Dezember ist ein Donnerstag.
 * Die Sowjetunion startet den kugelförmigen Satelliten Sputnik und löst im Westen den so genannten Sputnikschock aus.
 
+## [1983](https://de.wikipedia.org/wiki/1983)
+
+* Der 5. Dezember ist ein Montag.
+* In der Innenstadt von Buxtehude wird als Modellversuch die erste Tempo-30-Zone in Deutschland eingerichtet.
+* Die deutsche Bundesregierung beschließt, dass alle Neuwagen mit einem Katalysator ausgerüstet sein müssen.
+* Microsoft kündigt Windows 1.0 an.#
+* AIDS tritt durch einen Spiegel-Artikel in das Bewusstsein der breiten Öffentlichkeit in Deutschland.
+* Das deutsche Magazin stern gibt exklusiv den Fund der Hitler-Tagebücher bekannt.
+* Einführung der Uhrenmarke Swatch.
+* Amy Winehouse, Phillip Lahm und ein cooler Typ werden geboren.
+
 ## [1977](https://de.wikipedia.org/wiki/1977)
 
 * Doppelbesteuerungsabkommen zwischen der Bundesrepublik Deutschland und Malaysia.
@@ -126,17 +131,6 @@ Wann war ich? 60er Edition
 * Das Race Across America findet erstmals statt.
 * Italien wird zum dritten Mal Fußball-Weltmeister.
 * Helmut Kohl wird nach einem konstruktiven Misstrauensvotum gegen Bundeskanzler Helmut Schmidt zum neuen Regierungschef gewählt.
-
-## [1983](https://de.wikipedia.org/wiki/1983)
-
-* Der 5. Dezember ist ein Montag.
-* In der Innenstadt von Buxtehude wird als Modellversuch die erste Tempo-30-Zone in Deutschland eingerichtet.
-* Die deutsche Bundesregierung beschließt, dass alle Neuwagen mit einem Katalysator ausgerüstet sein müssen.
-* Microsoft kündigt Windows 1.0 an.#
-* AIDS tritt durch einen Spiegel-Artikel in das Bewusstsein der breiten Öffentlichkeit in Deutschland.
-* Das deutsche Magazin stern gibt exklusiv den Fund der Hitler-Tagebücher bekannt.
-* Einführung der Uhrenmarke Swatch.
-* Amy Winehouse, Phillip Lahm und ein cooler Typ werden geboren.
 
 ## [2001](https://de.wikipedia.org/wiki/2001)
 
