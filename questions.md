@@ -1,6 +1,16 @@
 Wann war ich? 60er Edition
 ==========================
 
+## [2011](https://de.wikipedia.org/wiki/2011)
+
+* Bei einem Erdbeben der Stärke 5,4 werden im Iran 16 Menschen verletzt.
+* Das spanische Bauunternehmen Grupo ACS übernimmt das deutsche Bautunernehmen Hochtief.
+* Der Eisbär Knut und Johannes Heesters sterben.
+* Die Wehrpflicht in Deutschland wird ausgesetzt.
+* Anders Behring Breivik tötet in Oslo und auf der Insel Utøya 77 Menschen.
+* Amy Winehouse stirbt im Alter von 27 Jahren.
+* In Folge eines Erdbebens und des dadurch verursachten Tsunamis kommt es im japanischen Kernkraftwerk Fukushima I zu einer folgenschweren Unfallserie.
+
 ## [1990](https://de.wikipedia.org/wiki/1990)
 
 * Die Färöer-Inseln siegen bei einem Fußballländerspiel mit einem historischen 1:0 über Österreich.
@@ -48,20 +58,9 @@ Wann war ich? 60er Edition
 * Der 5. Dezember ist ein Montag.
 * In den USA wird der Salk-Impfstoff gegen Kinderlähmung erfolgreich getestet.
 * Beim kalifornischen Anaheim eröffnet Walt Disney den ersten Disneyland-Vergnügungspark.
-* Die Pariser Verträge treten in Kraft.
-* Die Bundeswehr wird gegründet.
+* Die Pariser Verträge treten in Kraft und die Bundeswehr wird gegründet.
 * Steve Jobs, Kevin Costner und Heintje werden geboren.
 * Alexander Fleming (* 1881) und Albert Einstein (* 1879) segnen das Zeitliche.
-
-## [2011](https://de.wikipedia.org/wiki/2011)
-
-* Bei einem Erdbeben der Stärke 5,4 werden im Iran 16 Menschen verletzt.
-* Das spanische Bauunternehmen Grupo ACS übernimmt das deutsche Bautunernehmen Hochtief.
-* Der Eisbär Knut und Johannes Heesters sterben.
-* Die Wehrpflicht in Deutschland wird ausgesetzt.
-* Anders Behring Breivik tötet in Oslo und auf der Insel Utøya 77 Menschen.
-* Amy Winehouse stirbt im Alter von 27 Jahren.
-* In Folge eines Erdbebens und des dadurch verursachten Tsunamis kommt es im japanischen Kernkraftwerk Fukushima I zu einer folgenschweren Unfallserie.
 
 ## [1969](https://de.wikipedia.org/wiki/1969)
 
